@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/aniram42/AQA-trainee.git
-cd Yarosh_JavaScript
+cd Yarosh (JavaScript)
 
-## Running the program
+Running the program
 node index.js
